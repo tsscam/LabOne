@@ -1,0 +1,6 @@
+c:\users\tssca\onedrive\documents\visual studio 2015\Projects\LabNum1\LabNum1\bin\Debug\LabNum1.exe.config
+c:\users\tssca\onedrive\documents\visual studio 2015\Projects\LabNum1\LabNum1\bin\Debug\LabNum1.exe
+c:\users\tssca\onedrive\documents\visual studio 2015\Projects\LabNum1\LabNum1\bin\Debug\LabNum1.pdb
+c:\users\tssca\onedrive\documents\visual studio 2015\Projects\LabNum1\LabNum1\obj\Debug\LabNum1.exe
+c:\users\tssca\onedrive\documents\visual studio 2015\Projects\LabNum1\LabNum1\obj\Debug\LabNum1.pdb
+C:\Users\tssca\OneDrive\documents\visual studio 2015\Projects\LabNum1\LabNum1\obj\Debug\LabNum1.csprojResolveAssemblyReference.cache
