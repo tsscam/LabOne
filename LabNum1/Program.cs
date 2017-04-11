@@ -20,7 +20,7 @@ namespace LabNum1
                     //double is to allow decimals allows the user type decimal
                     Double.TryParse(Console.ReadLine(), out Length);
                     
-                    Console.WriteLine("Please enter the Width of room: ");
+                    Console.WriteLine("Please enter the Width of room and Hit Enter: ");
                     Double.TryParse(Console.ReadLine(), out Width);
 
                     Console.WriteLine("The Area of the Room is: " + (Length * Width));
